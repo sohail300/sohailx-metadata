@@ -1,6 +1,11 @@
+
 {
-  "name": "sohailx",
-  "symbol": "sohailx",
+  "name": "sohailX",
+  "symbol": "SOHX",
   "description": "Token created by sohail [GitHub: sohail300]",
   "image": "https://github.com/sohail300/sohailx-metadata/blob/main/sohailx%20logo.jpeg",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Normal"},
+    {"trait_type": "Origin", "value": "Solana"}
+  ]
 }
